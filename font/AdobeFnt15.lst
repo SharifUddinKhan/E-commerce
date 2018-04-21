@@ -1,0 +1,141 @@
+%!Adobe-FontList 1.15
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\1SoundTech Wordpress Training\Batch 02\Class-14\PSD to HTML\Font\Montserrat-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45968
+FileModTime:1448716584
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\1SoundTech Wordpress Training\Batch 02\Class-14\PSD to HTML\Font\Montserrat-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45360
+FileModTime:1448716584
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Bold
+FamilyName:Roboto Slab
+StyleName:Bold
+FullName:Roboto Slab Bold
+MenuName:Roboto Slab
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\1SoundTech Wordpress Training\Batch 02\Class-14\PSD to HTML\Font\RobotoSlab-Bold.ttf
+DataFormat:sfntData
+FileLength:170616
+FileModTime:1448717558
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Slab Bold
+NameArray:0,Mac,4,Roboto Slab Bold
+NameArray:0,Win,1,Roboto Slab
+NameArray:0,Win,16,Roboto Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Light
+FamilyName:Roboto Slab
+StyleName:Light
+FullName:Roboto Slab Light
+MenuName:Roboto Slab
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\1SoundTech Wordpress Training\Batch 02\Class-14\PSD to HTML\Font\RobotoSlab-Light.ttf
+DataFormat:sfntData
+FileLength:179096
+FileModTime:1448717558
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Slab Light
+NameArray:0,Mac,4,Roboto Slab Light
+NameArray:0,Win,1,Roboto Slab
+NameArray:0,Win,16,Roboto Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Regular
+FamilyName:Roboto Slab
+StyleName:Regular
+FullName:Roboto Slab Regular
+MenuName:Roboto Slab
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\1SoundTech Wordpress Training\Batch 02\Class-14\PSD to HTML\Font\RobotoSlab-Regular.ttf
+DataFormat:sfntData
+FileLength:169064
+FileModTime:1448717558
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Slab Regular
+NameArray:0,Mac,4,Roboto Slab Regular
+NameArray:0,Win,1,Roboto Slab
+NameArray:0,Win,16,Roboto Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Thin
+FamilyName:Roboto Slab
+StyleName:Thin
+FullName:Roboto Slab Thin
+MenuName:Roboto Slab
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\1SoundTech Wordpress Training\Batch 02\Class-14\PSD to HTML\Font\RobotoSlab-Thin.ttf
+DataFormat:sfntData
+FileLength:181156
+FileModTime:1448717558
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Slab Thin
+NameArray:0,Mac,4,Roboto Slab Thin
+NameArray:0,Win,1,Roboto Slab
+NameArray:0,Win,16,Roboto Slab
+%EndFont
+
